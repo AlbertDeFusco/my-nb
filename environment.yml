@@ -1,0 +1,5 @@
+name: stuff
+
+dependencies:
+  - python=3.8
+  - notebook
